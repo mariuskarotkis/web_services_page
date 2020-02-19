@@ -1,0 +1,16 @@
+{
+    "services_example_1":{
+        "title":"Example Group 1",
+        "services":[
+            { "title":"Example", "url":"https://example.com", "type":"example"},
+            { "title":"Example", "url":"https://example.com", "type":"example"},
+            { "title":"Example", "url":"https://example.com", "type":""}
+        ]},
+    "services_example_2":{
+        "title":"Example Group 2",
+        "services":[
+            { "title":"Example", "url":"https://example.com", "type":""},
+            { "title":"Example", "url":"https://example.com", "type":""}
+        ]
+    }
+}
