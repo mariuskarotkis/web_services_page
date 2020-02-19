@@ -1,11 +1,13 @@
-# Web services page
+### Web services page
 Simple web services page
 
-# Change Organization Name
+### Change Organization Name
 index.php
+
 define("DEFINE_ORGANIZATION", "Organization Name");
 
-# Update links list
+### Update links list
 services_data.json
 
+### Example
 ![Example](example.png)
